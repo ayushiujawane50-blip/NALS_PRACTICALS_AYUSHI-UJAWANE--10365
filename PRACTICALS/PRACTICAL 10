@@ -1,0 +1,27 @@
+Practical 10: AI Text Bias & Plagiarism
+Aim:
+To analyze AI-generated text for plagiarism and bias.
+Objectives:
+* To detect biased statements
+* To improve writing quality
+Materials Required:
+* ChatGPT / Gemini
+* Grammarly or any plagiarism checker
+
+ANSWER 
+1. AI-Generated Paragraph:
+“Social media helps students learn by giving quick information, but sometimes the information may not be fully accurate.”
+2. Plagiarism Check:
+The paragraph was checked in a plagiarism tool.
+Result: Original (No plagiarism found).
+3. Grammar Check:
+   Grammar tool highlighted minor corrections in punctuation and sentence structure.
+All errors were corrected.
+4. Biased Statements Identified:
+   * Assumption that social media helps every student
+   * General statement without evidence
+   * Slight positive bias toward social media
+5. Neutral Rewritten Paragraph:
+   “Social media provides quick access to information for students, but its accuracy can vary. It should be used carefully along with reliable study materials.”
+Conclusion:
+   The AI-generated text had minor bias. After checking plagiarism and grammar, the paragraph was rewritten in a neutral and balanced manner.
