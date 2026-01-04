@@ -1,0 +1,93 @@
+Practical 14: Sales Data Workbook
+
+Aim
+
+To analyze sales data using Excel formulas and charts.
+
+Objectives
+	•	To use SUMIF formulas
+	•	To filter categories
+
+Materials Required
+	•	Excel
+
+Procedure
+	
+1. Enter or import sales data – Add sales records manually or import them from an external file to build your dataset.
+
+
+2. Sort and filter – Organize the data by sorting and apply filters to focus on specific products, dates, or regions.
+
+
+3. Use SUMIF – Apply the SUMIF function to total sales based on a chosen condition, such as product type or salesperson.
+
+
+4. Extract text using LEFT/RIGHT – Use LEFT or RIGHT functions to pull specific characters from product codes or IDs.
+
+
+5. Create line chart – Plot a line chart to visualize sales trends over time for clearer analysis.
+
+
+6. Protect sheet – Lock the sheet or specific cells to prevent unauthorized edits and maintain data integrity.
+
+ANSWER -
+
+Aim:
+
+To analyze sales data using Excel formulas and charts.
+
+Objectives:
+
+1.To use SUMIF formulas for conditional totals.
+
+2.To filter categories for focused analysis.
+
+Materials Required:
+
+MS Excel
+
+Procedure (Answer):
+
+1.Enter or import sales data:
+Add sales records manually or import them from an external file to create a complete dataset.
+
+2.Sort and filter:
+Organize the data by sorting and apply filters to view specific products, dates, regions, or categories.
+
+3.Use SUMIF:
+Apply the SUMIF function to calculate total sales based on a condition such as product type or salesperson.
+Example: =SUMIF(B2:B20, "Electronics", C2:C20)
+
+4.Extract text using LEFT/RIGHT:
+Use LEFT or RIGHT functions to extract characters from product codes or IDs.
+Example:
+
+A.LEFT(A2, 3) – extracts first 3 characters
+
+B.RIGHT(A2, 4) – extracts last 4 characters
+
+5.Create line chart:
+Insert a line chart to display sales trends over time and visually analyze performance.
+
+6.Protect sheet:
+Lock the sheet or specific cells to prevent unauthorized edits and maintain data integrity. This protects formulas and prevents accidental changes.
+
+Observation (Answer):
+
+1.SUMIF successfully calculated category-wise total sales.
+
+2.Sorting and filtering helped isolate specific groups for analysis.
+
+3.LEFT/RIGHT correctly extracted text from product codes.
+
+4.The line chart clearly showed sales trends.
+
+5.Protect Sheet secured the worksheet from unwanted edits.
+
+Result:
+
+Sales data was analyzed effectively using Excel tools such as SUMIF, filters, text functions, and charts. The sheet was protected to maintain accuracy and security.
+
+Conclusion:
+
+Excel provides powerful features to analyze and visualize sales data. Protecting the sheet ensures data safety while formulas and charts help interpret sales trends efficiently.
